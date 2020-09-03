@@ -1,0 +1,7 @@
+{
+    "customer_name": "John Doe",
+    "arbitrary_key_so_that_I_remember_that_you_can_put_an_expression_here": true,
+    "random text": "{{ lipsum() }}",
+    "also_note_a_filter": "{{ dict(2,3) | tojson}}",
+    "project_name": "Protocol or whatever"
+}

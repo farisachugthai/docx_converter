@@ -1,0 +1,10 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"label": "Current python file",
+			"type": "python",
+			"command": "{config.python.pythonPath} {${file}"
+		}
+	]
+}

@@ -1,0 +1,7 @@
+# Gitignore
+*.generated.rst
+tags
+tags.lock
+tags.temp
+.vscode/tags
+.venv
